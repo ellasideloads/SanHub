@@ -52,7 +52,7 @@
 <key>PayloadDescription</key>
 <string>This will prevent you from getting blacklisted. It will not revert your blacklist unless you factory reset your device.</string>
 <key>PayloadDisplayName</key>
-<string>Antirevoke</string>
+<string>SanHub | Anti Blacklist + Anti Revoke | Update 1</string>
 <key>PayloadIdentifier</key>
 <string>khoindvn.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
