@@ -12,6 +12,7 @@
 <key>ServerURL</key>
 <string>https://apple.dns.nextdns.io/sanhub/SanHub</string>
 <key>SupplementalMatchDomains</key>
+<integer>1</integer>
 <array>
 <dict>
 <key>DNSSettings</key>
