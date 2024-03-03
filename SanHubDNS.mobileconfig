@@ -11,6 +11,14 @@
 <string>HTTPS</string>
 <key>ServerURL</key>
 <string>https://apple.dns.nextdns.io/sanhub/SanHub</string>
+<key>SupplementalMatchDomains</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
 <string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
 <key>SupplementalMatchDomains</key>
 <array>
